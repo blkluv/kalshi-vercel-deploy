@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-30T21:30:16.412Z",
-  "balance": 281.22,
+  "generated_at": "2026-05-01T15:00:32.315Z",
+  "balance": 588.83,
   "total_pnl": 156.24,
   "positions": 12,
   "position_details": [
@@ -60,8 +60,8 @@
       "contracts": 11,
       "price_cents": 47,
       "cost_dollars": 5.17,
-      "current_price_cents": 34,
-      "unrealized_pnl": -1.4300000000000002,
+      "current_price_cents": 53,
+      "unrealized_pnl": 0.6600000000000001,
       "realized_pnl": 0
     },
     {
@@ -135,8 +135,8 @@
       "contracts": 14,
       "price_cents": 57,
       "cost_dollars": 7.98,
-      "current_price_cents": 46,
-      "unrealized_pnl": -1.54,
+      "current_price_cents": 45,
+      "unrealized_pnl": -1.6800000000000006,
       "realized_pnl": 0
     },
     {
@@ -165,8 +165,8 @@
       "contracts": 97,
       "price_cents": 10,
       "cost_dollars": 9.33,
-      "current_price_cents": 12,
-      "unrealized_pnl": 2.3099999999999987,
+      "current_price_cents": 13,
+      "unrealized_pnl": 3.280000000000001,
       "realized_pnl": 0
     },
     {
@@ -180,13 +180,13 @@
       "contracts": 20,
       "price_cents": 26,
       "cost_dollars": 5.2,
-      "current_price_cents": 27,
-      "unrealized_pnl": 0.20000000000000018,
+      "current_price_cents": 28,
+      "unrealized_pnl": 0.40000000000000036,
       "realized_pnl": 0
     }
   ],
   "latest_scan": {
-    "timestamp": "2026-04-30T21:30:16.412Z",
+    "timestamp": "2026-05-01T15:00:32.315Z",
     "markets_pulled": 48,
     "markets_analyzed": 48,
     "opportunities_found": 0,
@@ -194,6 +194,18 @@
   },
   "opportunities": [],
   "trade_history": [
+    {
+      "trade_date": "2026-04-30",
+      "ticker": "KXNHLGAME-26APR30EDMANA-ANA",
+      "title": "KXNHLGAME-26APR30EDMANA-ANA",
+      "side": "yes",
+      "contracts": 0,
+      "price_cents": 0,
+      "cost_dollars": 0,
+      "status": "open",
+      "resolution": null,
+      "pnl_dollars": 0
+    },
     {
       "trade_date": "2026-04-22",
       "ticker": "USCLIMATE-2025",
@@ -676,16 +688,16 @@
     }
   ],
   "performance": null,
-  "elapsed_ms": 1176,
+  "elapsed_ms": 6042,
   "diagnostics": {
     "weather": [
       {
         "city": "NYC",
         "forecast": {
-          "raw_forecast_f": 59,
-          "corrected_f": 60,
-          "period_name": "This Afternoon",
-          "period_start": "2026-04-30T17:00:00-04:00"
+          "raw_forecast_f": 62,
+          "corrected_f": 63,
+          "period_name": "Today",
+          "period_start": "2026-05-01T11:00:00-04:00"
         },
         "markets_scanned": 12,
         "error": null
@@ -693,10 +705,10 @@
       {
         "city": "Chicago",
         "forecast": {
-          "raw_forecast_f": 52,
-          "corrected_f": 52.5,
-          "period_name": "This Afternoon",
-          "period_start": "2026-04-30T16:00:00-05:00"
+          "raw_forecast_f": 47,
+          "corrected_f": 47.5,
+          "period_name": "Today",
+          "period_start": "2026-05-01T10:00:00-05:00"
         },
         "markets_scanned": 12,
         "error": null
@@ -706,8 +718,8 @@
         "forecast": {
           "raw_forecast_f": 86,
           "corrected_f": 89,
-          "period_name": "This Afternoon",
-          "period_start": "2026-04-30T16:00:00-04:00"
+          "period_name": "Today",
+          "period_start": "2026-05-01T11:00:00-04:00"
         },
         "markets_scanned": 12,
         "error": null
@@ -715,10 +727,10 @@
       {
         "city": "Austin",
         "forecast": {
-          "raw_forecast_f": 77,
-          "corrected_f": 78.5,
-          "period_name": "This Afternoon",
-          "period_start": "2026-04-30T16:00:00-05:00"
+          "raw_forecast_f": 64,
+          "corrected_f": 65.5,
+          "period_name": "Today",
+          "period_start": "2026-05-01T10:00:00-05:00"
         },
         "markets_scanned": 12,
         "error": null
@@ -727,30 +739,24 @@
     "zero_dte": [
       {
         "index": "S&P 500",
-        "spot": 7209.01,
-        "vix": 16.89,
+        "spot": 7249.1,
+        "vix": 16.7,
         "markets_scanned": 0,
         "error": null
       },
       {
         "index": "Nasdaq 100",
-        "spot": 27452.12,
-        "vix": 21.79,
+        "spot": 27683.105,
+        "vix": 21.83,
         "markets_scanned": 0,
         "error": null
       }
     ],
     "econ_calendar": [
       {
-        "event": "PCE March 2026",
-        "date": "2026-04-30",
-        "days_until": -0.33,
-        "markets_found": 0
-      },
-      {
         "event": "NFP April 2026",
         "date": "2026-05-01",
-        "days_until": 0.67,
+        "days_until": -0.06,
         "markets_found": 0
       }
     ]
