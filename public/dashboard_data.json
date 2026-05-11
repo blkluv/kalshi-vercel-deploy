@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-11T16:34:36.061Z",
+  "generated_at": "2026-05-11T21:46:27.266Z",
   "balance": 0.83,
   "total_pnl": 156.24,
   "positions": 12,
@@ -30,8 +30,8 @@
       "contracts": 14,
       "price_cents": 34,
       "cost_dollars": 4.76,
-      "current_price_cents": 32,
-      "unrealized_pnl": -0.27999999999999936,
+      "current_price_cents": 33,
+      "unrealized_pnl": -0.13999999999999968,
       "realized_pnl": 0
     },
     {
@@ -45,8 +45,8 @@
       "contracts": 10,
       "price_cents": 47,
       "cost_dollars": 4.7,
-      "current_price_cents": 28,
-      "unrealized_pnl": -1.9,
+      "current_price_cents": 27,
+      "unrealized_pnl": -2,
       "realized_pnl": 0
     },
     {
@@ -120,8 +120,8 @@
       "contracts": 55,
       "price_cents": 10,
       "cost_dollars": 5.5,
-      "current_price_cents": 7,
-      "unrealized_pnl": -1.6499999999999995,
+      "current_price_cents": 9,
+      "unrealized_pnl": -0.5499999999999998,
       "realized_pnl": 0
     },
     {
@@ -135,8 +135,8 @@
       "contracts": 14,
       "price_cents": 57,
       "cost_dollars": 7.98,
-      "current_price_cents": 50,
-      "unrealized_pnl": -0.9800000000000004,
+      "current_price_cents": 54,
+      "unrealized_pnl": -0.41999999999999993,
       "realized_pnl": 0
     },
     {
@@ -150,8 +150,8 @@
       "contracts": 20,
       "price_cents": 24,
       "cost_dollars": 4.72,
-      "current_price_cents": 26,
-      "unrealized_pnl": 0.4800000000000004,
+      "current_price_cents": 40,
+      "unrealized_pnl": 3.2800000000000002,
       "realized_pnl": 0
     },
     {
@@ -180,13 +180,13 @@
       "contracts": 20,
       "price_cents": 26,
       "cost_dollars": 5.2,
-      "current_price_cents": 18,
-      "unrealized_pnl": -1.5999999999999992,
+      "current_price_cents": 17,
+      "unrealized_pnl": -1.7999999999999994,
       "realized_pnl": 0
     }
   ],
   "latest_scan": {
-    "timestamp": "2026-05-11T16:34:36.061Z",
+    "timestamp": "2026-05-11T21:46:27.266Z",
     "markets_pulled": 48,
     "markets_analyzed": 48,
     "opportunities_found": 0,
@@ -688,16 +688,16 @@
     }
   ],
   "performance": null,
-  "elapsed_ms": 508,
+  "elapsed_ms": 715,
   "diagnostics": {
     "weather": [
       {
         "city": "NYC",
         "forecast": {
-          "raw_forecast_f": 64,
-          "corrected_f": 65,
-          "period_name": "Today",
-          "period_start": "2026-05-11T06:00:00-04:00"
+          "raw_forecast_f": 61,
+          "corrected_f": 62,
+          "period_name": "This Afternoon",
+          "period_start": "2026-05-11T15:00:00-04:00"
         },
         "markets_scanned": 12,
         "error": null
@@ -707,8 +707,8 @@
         "forecast": {
           "raw_forecast_f": 54,
           "corrected_f": 54.5,
-          "period_name": "Today",
-          "period_start": "2026-05-11T11:00:00-05:00"
+          "period_name": "This Afternoon",
+          "period_start": "2026-05-11T16:00:00-05:00"
         },
         "markets_scanned": 12,
         "error": null
@@ -719,7 +719,7 @@
           "raw_forecast_f": 89,
           "corrected_f": 92,
           "period_name": "This Afternoon",
-          "period_start": "2026-05-11T12:00:00-04:00"
+          "period_start": "2026-05-11T17:00:00-04:00"
         },
         "markets_scanned": 12,
         "error": null
@@ -729,8 +729,8 @@
         "forecast": {
           "raw_forecast_f": 81,
           "corrected_f": 82.5,
-          "period_name": "Today",
-          "period_start": "2026-05-11T11:00:00-05:00"
+          "period_name": "This Afternoon",
+          "period_start": "2026-05-11T15:00:00-05:00"
         },
         "markets_scanned": 12,
         "error": null
@@ -739,15 +739,15 @@
     "zero_dte": [
       {
         "index": "S&P 500",
-        "spot": 7424.63,
-        "vix": 17.98,
+        "spot": 7412.84,
+        "vix": 18.38,
         "markets_scanned": 0,
         "error": null
       },
       {
         "index": "Nasdaq 100",
-        "spot": 29357.174,
-        "vix": 24.62,
+        "spot": 29320.656,
+        "vix": 24.74,
         "markets_scanned": 0,
         "error": null
       }
@@ -756,7 +756,7 @@
       {
         "event": "CPI April 2026",
         "date": "2026-05-13",
-        "days_until": 1.87,
+        "days_until": 1.66,
         "markets_found": 68
       }
     ]
