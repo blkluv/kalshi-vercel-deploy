@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-13T21:49:12.555Z",
+  "generated_at": "2026-05-14T16:11:08.719Z",
   "balance": 0.83,
   "total_pnl": 156.24,
   "positions": 12,
@@ -15,8 +15,8 @@
       "contracts": 25,
       "price_cents": 2,
       "cost_dollars": 0.5,
-      "current_price_cents": 2,
-      "unrealized_pnl": 0.025000000000000022,
+      "current_price_cents": 5,
+      "unrealized_pnl": 0.7,
       "realized_pnl": 0
     },
     {
@@ -45,8 +45,8 @@
       "contracts": 10,
       "price_cents": 47,
       "cost_dollars": 4.7,
-      "current_price_cents": 18,
-      "unrealized_pnl": -2.8999999999999995,
+      "current_price_cents": 20,
+      "unrealized_pnl": -2.7000000000000006,
       "realized_pnl": 0
     },
     {
@@ -120,8 +120,8 @@
       "contracts": 55,
       "price_cents": 10,
       "cost_dollars": 5.5,
-      "current_price_cents": 8,
-      "unrealized_pnl": -1.0999999999999996,
+      "current_price_cents": 9,
+      "unrealized_pnl": -0.5499999999999998,
       "realized_pnl": 0
     },
     {
@@ -150,8 +150,8 @@
       "contracts": 20,
       "price_cents": 24,
       "cost_dollars": 4.72,
-      "current_price_cents": 27,
-      "unrealized_pnl": 0.6800000000000006,
+      "current_price_cents": 28,
+      "unrealized_pnl": 0.8800000000000008,
       "realized_pnl": 0
     },
     {
@@ -180,13 +180,13 @@
       "contracts": 20,
       "price_cents": 26,
       "cost_dollars": 5.2,
-      "current_price_cents": 21,
-      "unrealized_pnl": -1.0000000000000009,
+      "current_price_cents": 23,
+      "unrealized_pnl": -0.6000000000000005,
       "realized_pnl": 0
     }
   ],
   "latest_scan": {
-    "timestamp": "2026-05-13T21:49:12.555Z",
+    "timestamp": "2026-05-14T16:11:08.719Z",
     "markets_pulled": 48,
     "markets_analyzed": 48,
     "opportunities_found": 0,
@@ -688,16 +688,16 @@
     }
   ],
   "performance": null,
-  "elapsed_ms": 601,
+  "elapsed_ms": 922,
   "diagnostics": {
     "weather": [
       {
         "city": "NYC",
         "forecast": {
-          "raw_forecast_f": 70,
-          "corrected_f": 71,
-          "period_name": "This Afternoon",
-          "period_start": "2026-05-13T14:00:00-04:00"
+          "raw_forecast_f": 62,
+          "corrected_f": 63,
+          "period_name": "Today",
+          "period_start": "2026-05-14T07:00:00-04:00"
         },
         "markets_scanned": 12,
         "error": null
@@ -705,10 +705,10 @@
       {
         "city": "Chicago",
         "forecast": {
-          "raw_forecast_f": 53,
-          "corrected_f": 53.5,
-          "period_name": "This Afternoon",
-          "period_start": "2026-05-13T16:00:00-05:00"
+          "raw_forecast_f": 58,
+          "corrected_f": 58.5,
+          "period_name": "Today",
+          "period_start": "2026-05-14T11:00:00-05:00"
         },
         "markets_scanned": 12,
         "error": null
@@ -719,7 +719,7 @@
           "raw_forecast_f": 89,
           "corrected_f": 92,
           "period_name": "This Afternoon",
-          "period_start": "2026-05-13T17:00:00-04:00"
+          "period_start": "2026-05-14T12:00:00-04:00"
         },
         "markets_scanned": 12,
         "error": null
@@ -727,10 +727,10 @@
       {
         "city": "Austin",
         "forecast": {
-          "raw_forecast_f": 91,
-          "corrected_f": 92.5,
-          "period_name": "This Afternoon",
-          "period_start": "2026-05-13T15:00:00-05:00"
+          "raw_forecast_f": 92,
+          "corrected_f": 93.5,
+          "period_name": "Today",
+          "period_start": "2026-05-14T11:00:00-05:00"
         },
         "markets_scanned": 12,
         "error": null
@@ -739,26 +739,19 @@
     "zero_dte": [
       {
         "index": "S&P 500",
-        "spot": 7444.25,
-        "vix": 17.87,
+        "spot": 7514.63,
+        "vix": 17.8,
         "markets_scanned": 0,
         "error": null
       },
       {
         "index": "Nasdaq 100",
-        "spot": 29366.943,
-        "vix": 24.59,
+        "spot": 29670.6,
+        "vix": 24.99,
         "markets_scanned": 0,
         "error": null
       }
     ],
-    "econ_calendar": [
-      {
-        "event": "CPI April 2026",
-        "date": "2026-05-13",
-        "days_until": -0.35,
-        "markets_found": 56
-      }
-    ]
+    "econ_calendar": []
   }
 }
