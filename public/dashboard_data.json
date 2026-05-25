@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-25T16:25:07.360Z",
+  "generated_at": "2026-05-25T21:38:26.218Z",
   "balance": 0.83,
   "total_pnl": 156.24,
   "positions": 12,
@@ -150,8 +150,8 @@
       "contracts": 20,
       "price_cents": 24,
       "cost_dollars": 4.72,
-      "current_price_cents": 71,
-      "unrealized_pnl": 9.48,
+      "current_price_cents": 72,
+      "unrealized_pnl": 9.68,
       "realized_pnl": 0
     },
     {
@@ -186,7 +186,7 @@
     }
   ],
   "latest_scan": {
-    "timestamp": "2026-05-25T16:25:07.360Z",
+    "timestamp": "2026-05-25T21:38:26.218Z",
     "markets_pulled": 48,
     "markets_analyzed": 48,
     "opportunities_found": 0,
@@ -688,7 +688,7 @@
     }
   ],
   "performance": null,
-  "elapsed_ms": 734,
+  "elapsed_ms": 685,
   "diagnostics": {
     "weather": [
       {
@@ -697,7 +697,7 @@
           "raw_forecast_f": 70,
           "corrected_f": 71,
           "period_name": "Memorial Day",
-          "period_start": "2026-05-25T12:00:00-04:00"
+          "period_start": "2026-05-25T16:00:00-04:00"
         },
         "markets_scanned": 12,
         "error": null
@@ -705,10 +705,10 @@
       {
         "city": "Chicago",
         "forecast": {
-          "raw_forecast_f": 80,
-          "corrected_f": 80.5,
+          "raw_forecast_f": 79,
+          "corrected_f": 79.5,
           "period_name": "Memorial Day",
-          "period_start": "2026-05-25T11:00:00-05:00"
+          "period_start": "2026-05-25T16:00:00-05:00"
         },
         "markets_scanned": 12,
         "error": null
@@ -719,7 +719,7 @@
           "raw_forecast_f": 88,
           "corrected_f": 91,
           "period_name": "Memorial Day",
-          "period_start": "2026-05-25T12:00:00-04:00"
+          "period_start": "2026-05-25T16:00:00-04:00"
         },
         "markets_scanned": 12,
         "error": null
@@ -727,10 +727,10 @@
       {
         "city": "Austin",
         "forecast": {
-          "raw_forecast_f": 91,
-          "corrected_f": 92.5,
+          "raw_forecast_f": 90,
+          "corrected_f": 91.5,
           "period_name": "Memorial Day",
-          "period_start": "2026-05-25T10:00:00-05:00"
+          "period_start": "2026-05-25T16:00:00-05:00"
         },
         "markets_scanned": 12,
         "error": null
