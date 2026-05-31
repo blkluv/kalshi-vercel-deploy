@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-30T15:13:04.203Z",
+  "generated_at": "2026-05-31T15:20:11.530Z",
   "balance": 0.83,
   "total_pnl": 156.24,
   "positions": 12,
@@ -30,8 +30,8 @@
       "contracts": 14,
       "price_cents": 34,
       "cost_dollars": 4.76,
-      "current_price_cents": 34,
-      "unrealized_pnl": 8.881784197001252e-16,
+      "current_price_cents": 37,
+      "unrealized_pnl": 0.41999999999999993,
       "realized_pnl": 0
     },
     {
@@ -45,8 +45,8 @@
       "contracts": 10,
       "price_cents": 47,
       "cost_dollars": 4.7,
-      "current_price_cents": 22,
-      "unrealized_pnl": -2.5000000000000004,
+      "current_price_cents": 23,
+      "unrealized_pnl": -2.4000000000000004,
       "realized_pnl": 0
     },
     {
@@ -60,8 +60,8 @@
       "contracts": 11,
       "price_cents": 47,
       "cost_dollars": 5.17,
-      "current_price_cents": 38,
-      "unrealized_pnl": -0.9900000000000002,
+      "current_price_cents": 51,
+      "unrealized_pnl": 0.4400000000000004,
       "realized_pnl": 0
     },
     {
@@ -90,8 +90,8 @@
       "contracts": 22,
       "price_cents": 64,
       "cost_dollars": 14.18,
-      "current_price_cents": 67,
-      "unrealized_pnl": 0.5599999999999987,
+      "current_price_cents": 70,
+      "unrealized_pnl": 1.2199999999999989,
       "realized_pnl": 0
     },
     {
@@ -120,8 +120,8 @@
       "contracts": 55,
       "price_cents": 10,
       "cost_dollars": 5.5,
-      "current_price_cents": 9,
-      "unrealized_pnl": -0.5499999999999998,
+      "current_price_cents": 11,
+      "unrealized_pnl": 0.5499999999999998,
       "realized_pnl": 0
     },
     {
@@ -165,8 +165,8 @@
       "contracts": 97,
       "price_cents": 10,
       "cost_dollars": 9.33,
-      "current_price_cents": 3,
-      "unrealized_pnl": -6.419999999999997,
+      "current_price_cents": 8,
+      "unrealized_pnl": -1.5700000000000038,
       "realized_pnl": 0
     },
     {
@@ -180,13 +180,13 @@
       "contracts": 20,
       "price_cents": 26,
       "cost_dollars": 5.2,
-      "current_price_cents": 10,
-      "unrealized_pnl": -3.2000000000000006,
+      "current_price_cents": 11,
+      "unrealized_pnl": -3.0000000000000004,
       "realized_pnl": 0
     }
   ],
   "latest_scan": {
-    "timestamp": "2026-05-30T15:13:04.203Z",
+    "timestamp": "2026-05-31T15:20:11.530Z",
     "markets_pulled": 48,
     "markets_analyzed": 48,
     "opportunities_found": 0,
@@ -688,16 +688,16 @@
     }
   ],
   "performance": null,
-  "elapsed_ms": 1281,
+  "elapsed_ms": 633,
   "diagnostics": {
     "weather": [
       {
         "city": "NYC",
         "forecast": {
-          "raw_forecast_f": 63,
-          "corrected_f": 64,
+          "raw_forecast_f": 72,
+          "corrected_f": 73,
           "period_name": "Today",
-          "period_start": "2026-05-30T11:00:00-04:00"
+          "period_start": "2026-05-31T11:00:00-04:00"
         },
         "markets_scanned": 12,
         "error": null
@@ -708,7 +708,7 @@
           "raw_forecast_f": 69,
           "corrected_f": 69.5,
           "period_name": "Today",
-          "period_start": "2026-05-30T10:00:00-05:00"
+          "period_start": "2026-05-31T10:00:00-05:00"
         },
         "markets_scanned": 12,
         "error": null
@@ -716,10 +716,10 @@
       {
         "city": "Miami",
         "forecast": {
-          "raw_forecast_f": 88,
-          "corrected_f": 91,
+          "raw_forecast_f": 90,
+          "corrected_f": 93,
           "period_name": "Today",
-          "period_start": "2026-05-30T11:00:00-04:00"
+          "period_start": "2026-05-31T11:00:00-04:00"
         },
         "markets_scanned": 12,
         "error": null
@@ -727,10 +727,10 @@
       {
         "city": "Austin",
         "forecast": {
-          "raw_forecast_f": 91,
-          "corrected_f": 92.5,
+          "raw_forecast_f": 93,
+          "corrected_f": 94.5,
           "period_name": "Today",
-          "period_start": "2026-05-30T07:00:00-05:00"
+          "period_start": "2026-05-31T10:00:00-05:00"
         },
         "markets_scanned": 12,
         "error": null
