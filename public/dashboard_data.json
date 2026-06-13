@@ -1,13 +1,124 @@
 {
-  "generated_at": "2026-06-12T22:03:15.775Z",
+  "generated_at": "2026-06-13T15:43:26.586Z",
   "balance": 0.83,
   "total_pnl": 156.24,
-  "positions": 0,
-  "position_details": [],
+  "positions": 10,
+  "position_details": [
+    {
+      "ticker": "USCLIMATE-2025",
+      "title": "Will the US meet its climate goals?",
+      "side": "yes",
+      "contracts": 25,
+      "price_cents": 2,
+      "cost_dollars": 0.5,
+      "current_price_cents": 7,
+      "unrealized_pnl": 1.1500000000000001,
+      "realized_pnl": 0
+    },
+    {
+      "ticker": "KXTIMEDECADE20S-30-EMUS",
+      "title": "Who will Time name as Person of the Decade?",
+      "side": "yes",
+      "contracts": 14,
+      "price_cents": 34,
+      "cost_dollars": 4.76,
+      "current_price_cents": 36,
+      "unrealized_pnl": 0.28000000000000025,
+      "realized_pnl": 0
+    },
+    {
+      "ticker": "KXG7LEADEROUT-45JAN01-KSTA",
+      "title": "Will Prime Minister of the United Kingdom be the first to leave office?",
+      "side": "no",
+      "contracts": 10,
+      "price_cents": 47,
+      "cost_dollars": 4.7,
+      "current_price_cents": 27,
+      "unrealized_pnl": -2,
+      "realized_pnl": 0
+    },
+    {
+      "ticker": "KXEARTHQUAKEJAPAN-30",
+      "title": "Will there be an at least 8.0 magnitude earthquake in Japan before 2030?",
+      "side": "no",
+      "contracts": 11,
+      "price_cents": 47,
+      "cost_dollars": 5.17,
+      "current_price_cents": 43,
+      "unrealized_pnl": -0.4399999999999995,
+      "realized_pnl": 0
+    },
+    {
+      "ticker": "KXJPMCEONEW-30-ML",
+      "title": "Will Marianne Lake succeed Jamie Dimon as CEO of JPMorgan?",
+      "side": "no",
+      "contracts": 3,
+      "price_cents": 53,
+      "cost_dollars": 1.59,
+      "current_price_cents": 63,
+      "unrealized_pnl": 0.30000000000000004,
+      "realized_pnl": 0
+    },
+    {
+      "ticker": "KXEARTHQUAKECALIFORNIA-35",
+      "title": "Will there be an at least 8.0 magnitude earthquake in California before 2035?",
+      "side": "no",
+      "contracts": 22,
+      "price_cents": 64,
+      "cost_dollars": 14.18,
+      "current_price_cents": 70,
+      "unrealized_pnl": 1.2199999999999989,
+      "realized_pnl": 0
+    },
+    {
+      "ticker": "AMAZONFTC-29DEC31",
+      "title": "Will a court find that Amazon has illegally maintained a monopoly?",
+      "side": "no",
+      "contracts": 11,
+      "price_cents": 44,
+      "cost_dollars": 4.84,
+      "current_price_cents": 50,
+      "unrealized_pnl": 0.6600000000000001,
+      "realized_pnl": 0
+    },
+    {
+      "ticker": "KXELONMARS-99",
+      "title": "Will Elon Musk visit Mars before Aug 1, 2099?",
+      "side": "yes",
+      "contracts": 55,
+      "price_cents": 10,
+      "cost_dollars": 5.5,
+      "current_price_cents": 15,
+      "unrealized_pnl": 2.75,
+      "realized_pnl": 0
+    },
+    {
+      "ticker": "KXPRIMEENGCONSUMPTION-30-OIL",
+      "title": "What will be the largest source of global primary energy consumption in 2030?",
+      "side": "yes",
+      "contracts": 14,
+      "price_cents": 57,
+      "cost_dollars": 7.98,
+      "current_price_cents": 56,
+      "unrealized_pnl": -0.13999999999999968,
+      "realized_pnl": 0
+    },
+    {
+      "ticker": "KXOAIANTH-40-ANTH",
+      "title": "Will Open AI or Anthropic IPO first?",
+      "side": "no",
+      "contracts": 20,
+      "price_cents": 24,
+      "cost_dollars": 4.72,
+      "current_price_cents": 21,
+      "unrealized_pnl": -0.5200000000000005,
+      "realized_pnl": 0
+    }
+  ],
   "latest_scan": {
-    "timestamp": "2026-06-12T22:03:15.775Z",
-    "markets_pulled": 0,
-    "markets_analyzed": 0,
+    "timestamp": "2026-06-13T15:43:26.586Z",
+    "markets_pulled": 48,
+    "markets_analyzed": 48,
     "opportunities_found": 0,
     "trades_placed": 0
   },
@@ -456,103 +567,55 @@
       "status": "open",
       "resolution": null,
       "pnl_dollars": 0
-    },
-    {
-      "trade_date": "2026-04-07",
-      "ticker": "KXPRIMEENGCONSUMPTION-30-OIL",
-      "title": "KXPRIMEENGCONSUMPTION-30-OIL",
-      "side": "yes",
-      "contracts": 0,
-      "price_cents": 0,
-      "cost_dollars": 0,
-      "status": "open",
-      "resolution": null,
-      "pnl_dollars": 0
-    },
-    {
-      "trade_date": "2026-04-07",
-      "ticker": "KXOAIANTH-40-ANTH",
-      "title": "KXOAIANTH-40-ANTH",
-      "side": "no",
-      "contracts": 0,
-      "price_cents": 0,
-      "cost_dollars": 0,
-      "status": "open",
-      "resolution": null,
-      "pnl_dollars": 0
-    },
-    {
-      "trade_date": "2026-04-07",
-      "ticker": "KXTRILLIONAIRE-30-EM",
-      "title": "KXTRILLIONAIRE-30-EM",
-      "side": "no",
-      "contracts": 0,
-      "price_cents": 0,
-      "cost_dollars": 0,
-      "status": "open",
-      "resolution": null,
-      "pnl_dollars": 0
-    },
-    {
-      "trade_date": "2026-04-07",
-      "ticker": "KXEARTHQUAKECALIFORNIA-35",
-      "title": "KXEARTHQUAKECALIFORNIA-35",
-      "side": "no",
-      "contracts": 0,
-      "price_cents": 0,
-      "cost_dollars": 0,
-      "status": "open",
-      "resolution": null,
-      "pnl_dollars": 0
     }
   ],
   "performance": null,
-  "elapsed_ms": 500,
+  "elapsed_ms": 542,
   "diagnostics": {
     "weather": [
       {
         "city": "NYC",
         "forecast": {
-          "raw_forecast_f": 87,
-          "corrected_f": 88,
-          "period_name": "Saturday",
-          "period_start": "2026-06-13T06:00:00-04:00"
+          "raw_forecast_f": 85,
+          "corrected_f": 86,
+          "period_name": "Today",
+          "period_start": "2026-06-13T08:00:00-04:00"
         },
-        "markets_scanned": 0,
-        "error": "kalshi list: Kalshi 403: <!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.01 Transitional//EN\" \"http://www.w3.org/TR/html4/loose.dtd\">\n<HTML><HEAD><META HTTP-EQUIV=\"Content-Type\" CONTENT=\"text/html; charset=iso-8859-1\">\n<TITLE>ERROR: The request could not be satisfied</TITLE>\n</HEAD><BODY>\n<H1>403 ERROR</H1>\n<H2>The request could not be satisfied.</H2>\n<HR noshade size=\"1px\">\nRequest blocked.\nWe can't connect to the server for this app or website at this time. There might be too much traffic or a configuration error. Try again later, or contact the app or website owner.\n<BR clear=\"all\">\nIf you provide content to customers through CloudFront, you can find steps to troubleshoot and help prevent this error by reviewing the CloudFront documentation.\n<BR clear=\"all\">\n<HR noshade size=\"1px\">\n<PRE>\nGenerated by cloudfront (CloudFront)\nRequest ID: PAThRedJSvUc12JzfvV-jCHEew5eycoMyTLyUKf4LLei9All9kAPtg==\n</PRE>\n<ADDRESS>\n</ADDRESS>\n</BODY></HTML>"
+        "markets_scanned": 12,
+        "error": null
       },
       {
         "city": "Chicago",
         "forecast": {
-          "raw_forecast_f": 81,
-          "corrected_f": 81.5,
-          "period_name": "This Afternoon",
-          "period_start": "2026-06-12T17:00:00-05:00"
+          "raw_forecast_f": 87,
+          "corrected_f": 87.5,
+          "period_name": "Today",
+          "period_start": "2026-06-13T09:00:00-05:00"
         },
-        "markets_scanned": 0,
-        "error": "kalshi list: Kalshi 403: <!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.01 Transitional//EN\" \"http://www.w3.org/TR/html4/loose.dtd\">\n<HTML><HEAD><META HTTP-EQUIV=\"Content-Type\" CONTENT=\"text/html; charset=iso-8859-1\">\n<TITLE>ERROR: The request could not be satisfied</TITLE>\n</HEAD><BODY>\n<H1>403 ERROR</H1>\n<H2>The request could not be satisfied.</H2>\n<HR noshade size=\"1px\">\nRequest blocked.\nWe can't connect to the server for this app or website at this time. There might be too much traffic or a configuration error. Try again later, or contact the app or website owner.\n<BR clear=\"all\">\nIf you provide content to customers through CloudFront, you can find steps to troubleshoot and help prevent this error by reviewing the CloudFront documentation.\n<BR clear=\"all\">\n<HR noshade size=\"1px\">\n<PRE>\nGenerated by cloudfront (CloudFront)\nRequest ID: Bwtnhytp28uPEXyWii0AlLIpFdKY2rP5LCdjkWPDmGC5flJ9OR04Rw==\n</PRE>\n<ADDRESS>\n</ADDRESS>\n</BODY></HTML>"
+        "markets_scanned": 12,
+        "error": null
       },
       {
         "city": "Miami",
         "forecast": {
           "raw_forecast_f": 90,
           "corrected_f": 93,
-          "period_name": "Saturday",
-          "period_start": "2026-06-13T06:00:00-04:00"
+          "period_name": "Today",
+          "period_start": "2026-06-13T11:00:00-04:00"
         },
-        "markets_scanned": 0,
-        "error": "kalshi list: Kalshi 403: <!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.01 Transitional//EN\" \"http://www.w3.org/TR/html4/loose.dtd\">\n<HTML><HEAD><META HTTP-EQUIV=\"Content-Type\" CONTENT=\"text/html; charset=iso-8859-1\">\n<TITLE>ERROR: The request could not be satisfied</TITLE>\n</HEAD><BODY>\n<H1>403 ERROR</H1>\n<H2>The request could not be satisfied.</H2>\n<HR noshade size=\"1px\">\nRequest blocked.\nWe can't connect to the server for this app or website at this time. There might be too much traffic or a configuration error. Try again later, or contact the app or website owner.\n<BR clear=\"all\">\nIf you provide content to customers through CloudFront, you can find steps to troubleshoot and help prevent this error by reviewing the CloudFront documentation.\n<BR clear=\"all\">\n<HR noshade size=\"1px\">\n<PRE>\nGenerated by cloudfront (CloudFront)\nRequest ID: KSM8HKGob3I2TEpDkQ4kkX3fuyYoNqs73Hov0ABUiysPGxd-p9N_5A==\n</PRE>\n<ADDRESS>\n</ADDRESS>\n</BODY></HTML>"
+        "markets_scanned": 12,
+        "error": null
       },
       {
         "city": "Austin",
         "forecast": {
-          "raw_forecast_f": 94,
-          "corrected_f": 95.5,
-          "period_name": "This Afternoon",
-          "period_start": "2026-06-12T16:00:00-05:00"
+          "raw_forecast_f": 95,
+          "corrected_f": 96.5,
+          "period_name": "Today",
+          "period_start": "2026-06-13T10:00:00-05:00"
         },
-        "markets_scanned": 0,
-        "error": "kalshi list: Kalshi 403: <!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.01 Transitional//EN\" \"http://www.w3.org/TR/html4/loose.dtd\">\n<HTML><HEAD><META HTTP-EQUIV=\"Content-Type\" CONTENT=\"text/html; charset=iso-8859-1\">\n<TITLE>ERROR: The request could not be satisfied</TITLE>\n</HEAD><BODY>\n<H1>403 ERROR</H1>\n<H2>The request could not be satisfied.</H2>\n<HR noshade size=\"1px\">\nRequest blocked.\nWe can't connect to the server for this app or website at this time. There might be too much traffic or a configuration error. Try again later, or contact the app or website owner.\n<BR clear=\"all\">\nIf you provide content to customers through CloudFront, you can find steps to troubleshoot and help prevent this error by reviewing the CloudFront documentation.\n<BR clear=\"all\">\n<HR noshade size=\"1px\">\n<PRE>\nGenerated by cloudfront (CloudFront)\nRequest ID: U1AlPVoPJALtc5ozFN6Lv0AjdW9k6iVANBy0m-gFQpZu8b_keBJ6gA==\n</PRE>\n<ADDRESS>\n</ADDRESS>\n</BODY></HTML>"
+        "markets_scanned": 12,
+        "error": null
       }
     ],
     "zero_dte": [
@@ -561,14 +624,14 @@
         "spot": 7431.46,
         "vix": 17.68,
         "markets_scanned": 0,
-        "error": "kalshi: Kalshi 403: <!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.01 Transitional//EN\" \"http://www.w3.org/TR/html4/loose.dtd\">\n<HTML><HEAD><META HTTP-EQUIV=\"Content-Type\" CONTENT=\"text/html; charset=iso-8859-1\">\n<TITLE>ERROR: The request could not be satisfied</TITLE>\n</HEAD><BODY>\n<H1>403 ERROR</H1>\n<H2>The request could not be satisfied.</H2>\n<HR noshade size=\"1px\">\nRequest blocked.\nWe can't connect to the server for this app or website at this time. There might be too much traffic or a configuration error. Try again later, or contact the app or website owner.\n<BR clear=\"all\">\nIf you provide content to customers through CloudFront, you can find steps to troubleshoot and help prevent this error by reviewing the CloudFront documentation.\n<BR clear=\"all\">\n<HR noshade size=\"1px\">\n<PRE>\nGenerated by cloudfront (CloudFront)\nRequest ID: dtw6CeLGVB1xOQD46YBNJBU5xFHR04Per9NiwoqT_98JPgDV2jDTUg==\n</PRE>\n<ADDRESS>\n</ADDRESS>\n</BODY></HTML>"
+        "error": null
       },
       {
         "index": "Nasdaq 100",
         "spot": 29635.947,
         "vix": 27.27,
         "markets_scanned": 0,
-        "error": "kalshi: Kalshi 403: <!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.01 Transitional//EN\" \"http://www.w3.org/TR/html4/loose.dtd\">\n<HTML><HEAD><META HTTP-EQUIV=\"Content-Type\" CONTENT=\"text/html; charset=iso-8859-1\">\n<TITLE>ERROR: The request could not be satisfied</TITLE>\n</HEAD><BODY>\n<H1>403 ERROR</H1>\n<H2>The request could not be satisfied.</H2>\n<HR noshade size=\"1px\">\nRequest blocked.\nWe can't connect to the server for this app or website at this time. There might be too much traffic or a configuration error. Try again later, or contact the app or website owner.\n<BR clear=\"all\">\nIf you provide content to customers through CloudFront, you can find steps to troubleshoot and help prevent this error by reviewing the CloudFront documentation.\n<BR clear=\"all\">\n<HR noshade size=\"1px\">\n<PRE>\nGenerated by cloudfront (CloudFront)\nRequest ID: PAr2ggSqdS_AeEFRQ9mLlFTxTWdvxHXN1BON7JLoFDAg9hGecBCMMA==\n</PRE>\n<ADDRESS>\n</ADDRESS>\n</BODY></HTML>"
+        "error": null
       }
     ],
     "econ_calendar": []
