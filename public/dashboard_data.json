@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-17T22:17:31.850Z",
+  "generated_at": "2026-06-18T17:17:01.252Z",
   "balance": 0.83,
   "total_pnl": 156.24,
   "positions": 10,
@@ -12,7 +12,7 @@
       "price_cents": 2,
       "cost_dollars": 0.5,
       "current_price_cents": 7,
-      "unrealized_pnl": 1.1500000000000001,
+      "unrealized_pnl": 1.125,
       "realized_pnl": 0
     },
     {
@@ -33,8 +33,8 @@
       "contracts": 10,
       "price_cents": 47,
       "cost_dollars": 4.7,
-      "current_price_cents": 27,
-      "unrealized_pnl": -2,
+      "current_price_cents": 29,
+      "unrealized_pnl": -1.7999999999999998,
       "realized_pnl": 0
     },
     {
@@ -44,8 +44,8 @@
       "contracts": 11,
       "price_cents": 47,
       "cost_dollars": 5.17,
-      "current_price_cents": 43,
-      "unrealized_pnl": -0.4399999999999995,
+      "current_price_cents": 36,
+      "unrealized_pnl": -1.21,
       "realized_pnl": 0
     },
     {
@@ -77,8 +77,8 @@
       "contracts": 11,
       "price_cents": 44,
       "cost_dollars": 4.84,
-      "current_price_cents": 46,
-      "unrealized_pnl": 0.21999999999999975,
+      "current_price_cents": 51,
+      "unrealized_pnl": 0.7700000000000005,
       "realized_pnl": 0
     },
     {
@@ -88,8 +88,8 @@
       "contracts": 55,
       "price_cents": 10,
       "cost_dollars": 5.5,
-      "current_price_cents": 14,
-      "unrealized_pnl": 2.200000000000001,
+      "current_price_cents": 16,
+      "unrealized_pnl": 3.3000000000000007,
       "realized_pnl": 0
     },
     {
@@ -99,8 +99,8 @@
       "contracts": 14,
       "price_cents": 57,
       "cost_dollars": 7.98,
-      "current_price_cents": 51,
-      "unrealized_pnl": -0.8399999999999999,
+      "current_price_cents": 55,
+      "unrealized_pnl": -0.27999999999999936,
       "realized_pnl": 0
     },
     {
@@ -110,13 +110,13 @@
       "contracts": 20,
       "price_cents": 24,
       "cost_dollars": 4.72,
-      "current_price_cents": 24,
-      "unrealized_pnl": 0.08000000000000007,
+      "current_price_cents": 25,
+      "unrealized_pnl": 0.28000000000000025,
       "realized_pnl": 0
     }
   ],
   "latest_scan": {
-    "timestamp": "2026-06-17T22:17:31.850Z",
+    "timestamp": "2026-06-18T17:17:01.252Z",
     "markets_pulled": 48,
     "markets_analyzed": 48,
     "opportunities_found": 0,
@@ -279,139 +279,19 @@
       "status": "open",
       "resolution": null,
       "pnl_dollars": 0
-    },
-    {
-      "trade_date": "2026-04-12",
-      "ticker": "KXG7LEADEROUT-45JAN01-KSTA",
-      "title": "KXG7LEADEROUT-45JAN01-KSTA",
-      "side": "no",
-      "contracts": 0,
-      "price_cents": 0,
-      "cost_dollars": 0,
-      "status": "open",
-      "resolution": null,
-      "pnl_dollars": 0
-    },
-    {
-      "trade_date": "2026-04-12",
-      "ticker": "KXTIMEDECADE20S-30-EMUS",
-      "title": "KXTIMEDECADE20S-30-EMUS",
-      "side": "yes",
-      "contracts": 0,
-      "price_cents": 0,
-      "cost_dollars": 0,
-      "status": "open",
-      "resolution": null,
-      "pnl_dollars": 0
-    },
-    {
-      "trade_date": "2026-04-12",
-      "ticker": "AMAZONFTC-29DEC31",
-      "title": "AMAZONFTC-29DEC31",
-      "side": "no",
-      "contracts": 0,
-      "price_cents": 0,
-      "cost_dollars": 0,
-      "status": "open",
-      "resolution": null,
-      "pnl_dollars": 0
-    },
-    {
-      "trade_date": "2026-04-12",
-      "ticker": "KXELONMARS-99",
-      "title": "KXELONMARS-99",
-      "side": "yes",
-      "contracts": 0,
-      "price_cents": 0,
-      "cost_dollars": 0,
-      "status": "open",
-      "resolution": null,
-      "pnl_dollars": 0
-    },
-    {
-      "trade_date": "2026-04-12",
-      "ticker": "KXELONMARS-99",
-      "title": "KXELONMARS-99",
-      "side": "yes",
-      "contracts": 0,
-      "price_cents": 0,
-      "cost_dollars": 0,
-      "status": "open",
-      "resolution": null,
-      "pnl_dollars": 0
-    },
-    {
-      "trade_date": "2026-04-12",
-      "ticker": "KXELONMARS-99",
-      "title": "KXELONMARS-99",
-      "side": "yes",
-      "contracts": 0,
-      "price_cents": 0,
-      "cost_dollars": 0,
-      "status": "open",
-      "resolution": null,
-      "pnl_dollars": 0
-    },
-    {
-      "trade_date": "2026-04-12",
-      "ticker": "KXELONMARS-99",
-      "title": "KXELONMARS-99",
-      "side": "yes",
-      "contracts": 0,
-      "price_cents": 0,
-      "cost_dollars": 0,
-      "status": "open",
-      "resolution": null,
-      "pnl_dollars": 0
-    },
-    {
-      "trade_date": "2026-04-12",
-      "ticker": "KXELONMARS-99",
-      "title": "KXELONMARS-99",
-      "side": "yes",
-      "contracts": 0,
-      "price_cents": 0,
-      "cost_dollars": 0,
-      "status": "open",
-      "resolution": null,
-      "pnl_dollars": 0
-    },
-    {
-      "trade_date": "2026-04-12",
-      "ticker": "KXELONMARS-99",
-      "title": "KXELONMARS-99",
-      "side": "yes",
-      "contracts": 0,
-      "price_cents": 0,
-      "cost_dollars": 0,
-      "status": "open",
-      "resolution": null,
-      "pnl_dollars": 0
-    },
-    {
-      "trade_date": "2026-04-12",
-      "ticker": "KXEARTHQUAKEJAPAN-30",
-      "title": "KXEARTHQUAKEJAPAN-30",
-      "side": "no",
-      "contracts": 0,
-      "price_cents": 0,
-      "cost_dollars": 0,
-      "status": "open",
-      "resolution": null,
-      "pnl_dollars": 0
     }
   ],
   "performance": null,
-  "elapsed_ms": 1108,
+  "elapsed_ms": 526,
   "diagnostics": {
     "weather": [
       {
         "city": "NYC",
         "forecast": {
-          "raw_forecast_f": 86,
-          "corrected_f": 87,
-          "period_name": "Thursday",
-          "period_start": "2026-06-18T06:00:00-04:00"
+          "raw_forecast_f": 88,
+          "corrected_f": 89,
+          "period_name": "This Afternoon",
+          "period_start": "2026-06-18T13:00:00-04:00"
         },
         "markets_scanned": 12,
         "error": null
@@ -419,10 +299,10 @@
       {
         "city": "Chicago",
         "forecast": {
-          "raw_forecast_f": 69,
-          "corrected_f": 69.5,
+          "raw_forecast_f": 73,
+          "corrected_f": 73.5,
           "period_name": "This Afternoon",
-          "period_start": "2026-06-17T17:00:00-05:00"
+          "period_start": "2026-06-18T12:00:00-05:00"
         },
         "markets_scanned": 12,
         "error": null
@@ -432,8 +312,8 @@
         "forecast": {
           "raw_forecast_f": 92,
           "corrected_f": 95,
-          "period_name": "Thursday",
-          "period_start": "2026-06-18T06:00:00-04:00"
+          "period_name": "This Afternoon",
+          "period_start": "2026-06-18T13:00:00-04:00"
         },
         "markets_scanned": 12,
         "error": null
@@ -441,10 +321,10 @@
       {
         "city": "Austin",
         "forecast": {
-          "raw_forecast_f": 92,
-          "corrected_f": 93.5,
-          "period_name": "This Afternoon",
-          "period_start": "2026-06-17T17:00:00-05:00"
+          "raw_forecast_f": 99,
+          "corrected_f": 100.5,
+          "period_name": "Today",
+          "period_start": "2026-06-18T11:00:00-05:00"
         },
         "markets_scanned": 12,
         "error": null
@@ -453,26 +333,19 @@
     "zero_dte": [
       {
         "index": "S&P 500",
-        "spot": 7420.1,
-        "vix": 18.44,
+        "spot": 7509.48,
+        "vix": 16.76,
         "markets_scanned": 0,
         "error": null
       },
       {
         "index": "Nasdaq 100",
-        "spot": 29670.947,
-        "vix": 28.56,
+        "spot": 30405.564,
+        "vix": 26.62,
         "markets_scanned": 0,
         "error": null
       }
     ],
-    "econ_calendar": [
-      {
-        "event": "FOMC",
-        "date": "2026-06-17",
-        "days_until": -0.37,
-        "markets_found": 98
-      }
-    ]
+    "econ_calendar": []
   }
 }
