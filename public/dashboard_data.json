@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-19T16:32:55.307Z",
+  "generated_at": "2026-06-19T21:39:40.396Z",
   "balance": 0.83,
   "total_pnl": 156.24,
   "positions": 10,
@@ -77,8 +77,8 @@
       "contracts": 11,
       "price_cents": 44,
       "cost_dollars": 4.84,
-      "current_price_cents": 56,
-      "unrealized_pnl": 1.3200000000000003,
+      "current_price_cents": 51,
+      "unrealized_pnl": 0.7700000000000005,
       "realized_pnl": 0
     },
     {
@@ -110,13 +110,13 @@
       "contracts": 20,
       "price_cents": 24,
       "cost_dollars": 4.72,
-      "current_price_cents": 22,
-      "unrealized_pnl": -0.3200000000000003,
+      "current_price_cents": 25,
+      "unrealized_pnl": 0.28000000000000025,
       "realized_pnl": 0
     }
   ],
   "latest_scan": {
-    "timestamp": "2026-06-19T16:32:55.307Z",
+    "timestamp": "2026-06-19T21:39:40.396Z",
     "markets_pulled": 48,
     "markets_analyzed": 48,
     "opportunities_found": 0,
@@ -270,7 +270,7 @@
     }
   ],
   "performance": null,
-  "elapsed_ms": 1031,
+  "elapsed_ms": 696,
   "diagnostics": {
     "weather": [
       {
@@ -279,7 +279,7 @@
           "raw_forecast_f": 82,
           "corrected_f": 83,
           "period_name": "Juneteenth",
-          "period_start": "2026-06-19T11:00:00-04:00"
+          "period_start": "2026-06-19T17:00:00-04:00"
         },
         "markets_scanned": 12,
         "error": null
@@ -290,7 +290,7 @@
           "raw_forecast_f": 76,
           "corrected_f": 76.5,
           "period_name": "Juneteenth",
-          "period_start": "2026-06-19T11:00:00-05:00"
+          "period_start": "2026-06-19T16:00:00-05:00"
         },
         "markets_scanned": 12,
         "error": null
@@ -301,7 +301,7 @@
           "raw_forecast_f": 92,
           "corrected_f": 95,
           "period_name": "Juneteenth",
-          "period_start": "2026-06-19T12:00:00-04:00"
+          "period_start": "2026-06-19T17:00:00-04:00"
         },
         "markets_scanned": 12,
         "error": null
@@ -309,10 +309,10 @@
       {
         "city": "Austin",
         "forecast": {
-          "raw_forecast_f": 94,
-          "corrected_f": 95.5,
+          "raw_forecast_f": 91,
+          "corrected_f": 92.5,
           "period_name": "Juneteenth",
-          "period_start": "2026-06-19T11:00:00-05:00"
+          "period_start": "2026-06-19T14:00:00-05:00"
         },
         "markets_scanned": 12,
         "error": null
