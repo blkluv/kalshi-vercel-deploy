@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-19T21:39:40.396Z",
+  "generated_at": "2026-06-20T15:46:30.813Z",
   "balance": 0.83,
   "total_pnl": 156.24,
   "positions": 10,
@@ -34,7 +34,7 @@
       "price_cents": 47,
       "cost_dollars": 4.7,
       "current_price_cents": 6,
-      "unrealized_pnl": -4.1,
+      "unrealized_pnl": -4.09,
       "realized_pnl": 0
     },
     {
@@ -77,8 +77,8 @@
       "contracts": 11,
       "price_cents": 44,
       "cost_dollars": 4.84,
-      "current_price_cents": 51,
-      "unrealized_pnl": 0.7700000000000005,
+      "current_price_cents": 53,
+      "unrealized_pnl": 0.9900000000000002,
       "realized_pnl": 0
     },
     {
@@ -88,8 +88,8 @@
       "contracts": 55,
       "price_cents": 10,
       "cost_dollars": 5.5,
-      "current_price_cents": 16,
-      "unrealized_pnl": 3.3000000000000007,
+      "current_price_cents": 14,
+      "unrealized_pnl": 2.200000000000001,
       "realized_pnl": 0
     },
     {
@@ -99,8 +99,8 @@
       "contracts": 14,
       "price_cents": 57,
       "cost_dollars": 7.98,
-      "current_price_cents": 51,
-      "unrealized_pnl": -0.8399999999999999,
+      "current_price_cents": 59,
+      "unrealized_pnl": 0.27999999999999936,
       "realized_pnl": 0
     },
     {
@@ -110,13 +110,13 @@
       "contracts": 20,
       "price_cents": 24,
       "cost_dollars": 4.72,
-      "current_price_cents": 25,
-      "unrealized_pnl": 0.28000000000000025,
+      "current_price_cents": 24,
+      "unrealized_pnl": 0.08000000000000007,
       "realized_pnl": 0
     }
   ],
   "latest_scan": {
-    "timestamp": "2026-06-19T21:39:40.396Z",
+    "timestamp": "2026-06-20T15:46:30.813Z",
     "markets_pulled": 48,
     "markets_analyzed": 48,
     "opportunities_found": 0,
@@ -255,31 +255,19 @@
       "status": "open",
       "resolution": null,
       "pnl_dollars": 0
-    },
-    {
-      "trade_date": "2026-04-14",
-      "ticker": "KXTIMEDECADE20S-30-EMUS",
-      "title": "KXTIMEDECADE20S-30-EMUS",
-      "side": "yes",
-      "contracts": 0,
-      "price_cents": 0,
-      "cost_dollars": 0,
-      "status": "open",
-      "resolution": null,
-      "pnl_dollars": 0
     }
   ],
   "performance": null,
-  "elapsed_ms": 696,
+  "elapsed_ms": 423,
   "diagnostics": {
     "weather": [
       {
         "city": "NYC",
         "forecast": {
-          "raw_forecast_f": 82,
-          "corrected_f": 83,
-          "period_name": "Juneteenth",
-          "period_start": "2026-06-19T17:00:00-04:00"
+          "raw_forecast_f": 81,
+          "corrected_f": 82,
+          "period_name": "Today",
+          "period_start": "2026-06-20T11:00:00-04:00"
         },
         "markets_scanned": 12,
         "error": null
@@ -287,10 +275,10 @@
       {
         "city": "Chicago",
         "forecast": {
-          "raw_forecast_f": 76,
-          "corrected_f": 76.5,
-          "period_name": "Juneteenth",
-          "period_start": "2026-06-19T16:00:00-05:00"
+          "raw_forecast_f": 75,
+          "corrected_f": 75.5,
+          "period_name": "Today",
+          "period_start": "2026-06-20T10:00:00-05:00"
         },
         "markets_scanned": 12,
         "error": null
@@ -298,10 +286,10 @@
       {
         "city": "Miami",
         "forecast": {
-          "raw_forecast_f": 92,
-          "corrected_f": 95,
-          "period_name": "Juneteenth",
-          "period_start": "2026-06-19T17:00:00-04:00"
+          "raw_forecast_f": 91,
+          "corrected_f": 94,
+          "period_name": "Today",
+          "period_start": "2026-06-20T11:00:00-04:00"
         },
         "markets_scanned": 12,
         "error": null
@@ -309,10 +297,10 @@
       {
         "city": "Austin",
         "forecast": {
-          "raw_forecast_f": 91,
-          "corrected_f": 92.5,
-          "period_name": "Juneteenth",
-          "period_start": "2026-06-19T14:00:00-05:00"
+          "raw_forecast_f": 92,
+          "corrected_f": 93.5,
+          "period_name": "Today",
+          "period_start": "2026-06-20T09:00:00-05:00"
         },
         "markets_scanned": 12,
         "error": null
