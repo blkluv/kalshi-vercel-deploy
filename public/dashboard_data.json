@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-22T22:19:14.513Z",
+  "generated_at": "2026-06-23T16:28:08.179Z",
   "balance": 0.83,
   "total_pnl": 156.24,
   "positions": 10,
@@ -11,8 +11,8 @@
       "contracts": 25,
       "price_cents": 2,
       "cost_dollars": 0.5,
-      "current_price_cents": 2,
-      "unrealized_pnl": 0,
+      "current_price_cents": 7,
+      "unrealized_pnl": 1.1500000000000001,
       "realized_pnl": 0
     },
     {
@@ -34,7 +34,7 @@
       "price_cents": 47,
       "cost_dollars": 4.7,
       "current_price_cents": 2,
-      "unrealized_pnl": -4.5,
+      "unrealized_pnl": -4.51,
       "realized_pnl": 0
     },
     {
@@ -44,8 +44,8 @@
       "contracts": 11,
       "price_cents": 47,
       "cost_dollars": 5.17,
-      "current_price_cents": 36,
-      "unrealized_pnl": -1.21,
+      "current_price_cents": 42,
+      "unrealized_pnl": -0.5499999999999998,
       "realized_pnl": 0
     },
     {
@@ -66,8 +66,8 @@
       "contracts": 22,
       "price_cents": 64,
       "cost_dollars": 14.18,
-      "current_price_cents": 35,
-      "unrealized_pnl": -6.48,
+      "current_price_cents": 74,
+      "unrealized_pnl": 2.1000000000000014,
       "realized_pnl": 0
     },
     {
@@ -88,8 +88,8 @@
       "contracts": 55,
       "price_cents": 10,
       "cost_dollars": 5.5,
-      "current_price_cents": 15,
-      "unrealized_pnl": 2.75,
+      "current_price_cents": 13,
+      "unrealized_pnl": 1.6500000000000004,
       "realized_pnl": 0
     },
     {
@@ -116,7 +116,7 @@
     }
   ],
   "latest_scan": {
-    "timestamp": "2026-06-22T22:19:14.513Z",
+    "timestamp": "2026-06-23T16:28:08.179Z",
     "markets_pulled": 48,
     "markets_analyzed": 48,
     "opportunities_found": 0,
@@ -258,16 +258,16 @@
     }
   ],
   "performance": null,
-  "elapsed_ms": 860,
+  "elapsed_ms": 833,
   "diagnostics": {
     "weather": [
       {
         "city": "NYC",
         "forecast": {
-          "raw_forecast_f": 76,
-          "corrected_f": 77,
-          "period_name": "Tuesday",
-          "period_start": "2026-06-23T06:00:00-04:00"
+          "raw_forecast_f": 73,
+          "corrected_f": 74,
+          "period_name": "Today",
+          "period_start": "2026-06-23T11:00:00-04:00"
         },
         "markets_scanned": 12,
         "error": null
@@ -275,10 +275,10 @@
       {
         "city": "Chicago",
         "forecast": {
-          "raw_forecast_f": 68,
-          "corrected_f": 68.5,
-          "period_name": "This Afternoon",
-          "period_start": "2026-06-22T17:00:00-05:00"
+          "raw_forecast_f": 72,
+          "corrected_f": 72.5,
+          "period_name": "Today",
+          "period_start": "2026-06-23T11:00:00-05:00"
         },
         "markets_scanned": 12,
         "error": null
@@ -288,8 +288,8 @@
         "forecast": {
           "raw_forecast_f": 92,
           "corrected_f": 95,
-          "period_name": "Tuesday",
-          "period_start": "2026-06-23T06:00:00-04:00"
+          "period_name": "This Afternoon",
+          "period_start": "2026-06-23T12:00:00-04:00"
         },
         "markets_scanned": 12,
         "error": null
@@ -299,8 +299,8 @@
         "forecast": {
           "raw_forecast_f": 96,
           "corrected_f": 97.5,
-          "period_name": "This Afternoon",
-          "period_start": "2026-06-22T16:00:00-05:00"
+          "period_name": "Today",
+          "period_start": "2026-06-23T11:00:00-05:00"
         },
         "markets_scanned": 12,
         "error": null
@@ -309,19 +309,26 @@
     "zero_dte": [
       {
         "index": "S&P 500",
-        "spot": 7472.79,
-        "vix": 17.28,
+        "spot": 7402.74,
+        "vix": 18.99,
         "markets_scanned": 0,
         "error": null
       },
       {
         "index": "Nasdaq 100",
-        "spot": 30347.082,
-        "vix": 27.67,
+        "spot": 29574.832,
+        "vix": 31.46,
         "markets_scanned": 0,
         "error": null
       }
     ],
-    "econ_calendar": []
+    "econ_calendar": [
+      {
+        "event": "PCE May 2026",
+        "date": "2026-06-26",
+        "days_until": 2.88,
+        "markets_found": 0
+      }
+    ]
   }
 }
