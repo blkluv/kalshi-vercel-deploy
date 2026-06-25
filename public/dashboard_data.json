@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-24T21:51:00.665Z",
+  "generated_at": "2026-06-25T16:28:39.098Z",
   "balance": 0.83,
   "total_pnl": 156.24,
   "positions": 10,
@@ -44,8 +44,8 @@
       "contracts": 11,
       "price_cents": 47,
       "cost_dollars": 5.17,
-      "current_price_cents": 42,
-      "unrealized_pnl": -0.5499999999999998,
+      "current_price_cents": 35,
+      "unrealized_pnl": -1.3200000000000003,
       "realized_pnl": 0
     },
     {
@@ -55,8 +55,8 @@
       "contracts": 3,
       "price_cents": 53,
       "cost_dollars": 1.59,
-      "current_price_cents": 46,
-      "unrealized_pnl": -0.2100000000000002,
+      "current_price_cents": 97,
+      "unrealized_pnl": 1.32,
       "realized_pnl": 0
     },
     {
@@ -77,8 +77,8 @@
       "contracts": 11,
       "price_cents": 44,
       "cost_dollars": 4.84,
-      "current_price_cents": 50,
-      "unrealized_pnl": 0.6600000000000001,
+      "current_price_cents": 58,
+      "unrealized_pnl": 1.540000000000001,
       "realized_pnl": 0
     },
     {
@@ -88,8 +88,8 @@
       "contracts": 55,
       "price_cents": 10,
       "cost_dollars": 5.5,
-      "current_price_cents": 13,
-      "unrealized_pnl": 1.6500000000000004,
+      "current_price_cents": 12,
+      "unrealized_pnl": 1.0999999999999996,
       "realized_pnl": 0
     },
     {
@@ -110,13 +110,13 @@
       "contracts": 20,
       "price_cents": 24,
       "cost_dollars": 4.72,
-      "current_price_cents": 26,
-      "unrealized_pnl": 0.4800000000000004,
+      "current_price_cents": 23,
+      "unrealized_pnl": -0.1200000000000001,
       "realized_pnl": 0
     }
   ],
   "latest_scan": {
-    "timestamp": "2026-06-24T21:51:00.665Z",
+    "timestamp": "2026-06-25T16:28:39.098Z",
     "markets_pulled": 48,
     "markets_analyzed": 48,
     "opportunities_found": 0,
@@ -231,43 +231,19 @@
       "status": "open",
       "resolution": null,
       "pnl_dollars": 0
-    },
-    {
-      "trade_date": "2026-04-19",
-      "ticker": "KXEARTHQUAKEJAPAN-30",
-      "title": "KXEARTHQUAKEJAPAN-30",
-      "side": "no",
-      "contracts": 0,
-      "price_cents": 0,
-      "cost_dollars": 0,
-      "status": "open",
-      "resolution": null,
-      "pnl_dollars": 0
-    },
-    {
-      "trade_date": "2026-04-19",
-      "ticker": "KXJPMCEONEW-30-ML",
-      "title": "KXJPMCEONEW-30-ML",
-      "side": "no",
-      "contracts": 0,
-      "price_cents": 0,
-      "cost_dollars": 0,
-      "status": "open",
-      "resolution": null,
-      "pnl_dollars": 0
     }
   ],
   "performance": null,
-  "elapsed_ms": 775,
+  "elapsed_ms": 758,
   "diagnostics": {
     "weather": [
       {
         "city": "NYC",
         "forecast": {
-          "raw_forecast_f": 83,
-          "corrected_f": 84,
-          "period_name": "This Afternoon",
-          "period_start": "2026-06-24T16:00:00-04:00"
+          "raw_forecast_f": 77,
+          "corrected_f": 78,
+          "period_name": "Today",
+          "period_start": "2026-06-25T06:00:00-04:00"
         },
         "markets_scanned": 12,
         "error": null
@@ -275,10 +251,10 @@
       {
         "city": "Chicago",
         "forecast": {
-          "raw_forecast_f": 71,
-          "corrected_f": 71.5,
-          "period_name": "This Afternoon",
-          "period_start": "2026-06-24T16:00:00-05:00"
+          "raw_forecast_f": 77,
+          "corrected_f": 77.5,
+          "period_name": "Today",
+          "period_start": "2026-06-25T11:00:00-05:00"
         },
         "markets_scanned": 12,
         "error": null
@@ -289,7 +265,7 @@
           "raw_forecast_f": 91,
           "corrected_f": 94,
           "period_name": "This Afternoon",
-          "period_start": "2026-06-24T17:00:00-04:00"
+          "period_start": "2026-06-25T12:00:00-04:00"
         },
         "markets_scanned": 12,
         "error": null
@@ -297,10 +273,10 @@
       {
         "city": "Austin",
         "forecast": {
-          "raw_forecast_f": 97,
-          "corrected_f": 98.5,
-          "period_name": "This Afternoon",
-          "period_start": "2026-06-24T15:00:00-05:00"
+          "raw_forecast_f": 96,
+          "corrected_f": 97.5,
+          "period_name": "Today",
+          "period_start": "2026-06-25T07:00:00-05:00"
         },
         "markets_scanned": 12,
         "error": null
@@ -309,15 +285,15 @@
     "zero_dte": [
       {
         "index": "S&P 500",
-        "spot": 7358.22,
-        "vix": 18.63,
+        "spot": 7369.61,
+        "vix": 18.64,
         "markets_scanned": 0,
         "error": null
       },
       {
         "index": "Nasdaq 100",
-        "spot": 29220.057,
-        "vix": 30.18,
+        "spot": 29456.889,
+        "vix": 30.63,
         "markets_scanned": 0,
         "error": null
       }
@@ -326,7 +302,7 @@
       {
         "event": "PCE May 2026",
         "date": "2026-06-26",
-        "days_until": 1.65,
+        "days_until": 0.88,
         "markets_found": 0
       }
     ]
