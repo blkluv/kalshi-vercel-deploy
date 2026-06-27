@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-26T21:44:35.366Z",
+  "generated_at": "2026-06-27T15:19:01.460Z",
   "balance": 0.83,
   "total_pnl": 156.24,
   "positions": 10,
@@ -22,8 +22,8 @@
       "contracts": 14,
       "price_cents": 34,
       "cost_dollars": 4.76,
-      "current_price_cents": 32,
-      "unrealized_pnl": -0.27999999999999936,
+      "current_price_cents": 36,
+      "unrealized_pnl": 0.28000000000000025,
       "realized_pnl": 0
     },
     {
@@ -34,7 +34,7 @@
       "price_cents": 47,
       "cost_dollars": 4.7,
       "current_price_cents": 2,
-      "unrealized_pnl": -4.5,
+      "unrealized_pnl": -4.47,
       "realized_pnl": 0
     },
     {
@@ -44,8 +44,8 @@
       "contracts": 11,
       "price_cents": 47,
       "cost_dollars": 5.17,
-      "current_price_cents": 35,
-      "unrealized_pnl": -1.3200000000000003,
+      "current_price_cents": 43,
+      "unrealized_pnl": -0.4399999999999995,
       "realized_pnl": 0
     },
     {
@@ -99,8 +99,8 @@
       "contracts": 14,
       "price_cents": 57,
       "cost_dollars": 7.98,
-      "current_price_cents": 54,
-      "unrealized_pnl": -0.41999999999999993,
+      "current_price_cents": 51,
+      "unrealized_pnl": -0.8399999999999999,
       "realized_pnl": 0
     },
     {
@@ -116,7 +116,7 @@
     }
   ],
   "latest_scan": {
-    "timestamp": "2026-06-26T21:44:35.366Z",
+    "timestamp": "2026-06-27T15:19:01.460Z",
     "markets_pulled": 48,
     "markets_analyzed": 48,
     "opportunities_found": 0,
@@ -195,43 +195,19 @@
       "status": "open",
       "resolution": null,
       "pnl_dollars": 0
-    },
-    {
-      "trade_date": "2026-04-21",
-      "ticker": "KXTIMEDECADE20S-30-EMUS",
-      "title": "KXTIMEDECADE20S-30-EMUS",
-      "side": "yes",
-      "contracts": 0,
-      "price_cents": 0,
-      "cost_dollars": 0,
-      "status": "open",
-      "resolution": null,
-      "pnl_dollars": 0
-    },
-    {
-      "trade_date": "2026-04-21",
-      "ticker": "KXG7LEADEROUT-45JAN01-KSTA",
-      "title": "KXG7LEADEROUT-45JAN01-KSTA",
-      "side": "no",
-      "contracts": 0,
-      "price_cents": 0,
-      "cost_dollars": 0,
-      "status": "open",
-      "resolution": null,
-      "pnl_dollars": 0
     }
   ],
   "performance": null,
-  "elapsed_ms": 650,
+  "elapsed_ms": 646,
   "diagnostics": {
     "weather": [
       {
         "city": "NYC",
         "forecast": {
-          "raw_forecast_f": 82,
-          "corrected_f": 83,
-          "period_name": "This Afternoon",
-          "period_start": "2026-06-26T17:00:00-04:00"
+          "raw_forecast_f": 75,
+          "corrected_f": 76,
+          "period_name": "Today",
+          "period_start": "2026-06-27T07:00:00-04:00"
         },
         "markets_scanned": 12,
         "error": null
@@ -239,10 +215,10 @@
       {
         "city": "Chicago",
         "forecast": {
-          "raw_forecast_f": 66,
-          "corrected_f": 66.5,
-          "period_name": "This Afternoon",
-          "period_start": "2026-06-26T16:00:00-05:00"
+          "raw_forecast_f": 71,
+          "corrected_f": 71.5,
+          "period_name": "Today",
+          "period_start": "2026-06-27T10:00:00-05:00"
         },
         "markets_scanned": 12,
         "error": null
@@ -252,8 +228,8 @@
         "forecast": {
           "raw_forecast_f": 91,
           "corrected_f": 94,
-          "period_name": "This Afternoon",
-          "period_start": "2026-06-26T17:00:00-04:00"
+          "period_name": "Today",
+          "period_start": "2026-06-27T11:00:00-04:00"
         },
         "markets_scanned": 12,
         "error": null
@@ -263,8 +239,8 @@
         "forecast": {
           "raw_forecast_f": 97,
           "corrected_f": 98.5,
-          "period_name": "This Afternoon",
-          "period_start": "2026-06-26T15:00:00-05:00"
+          "period_name": "Today",
+          "period_start": "2026-06-27T07:00:00-05:00"
         },
         "markets_scanned": 12,
         "error": null
@@ -286,13 +262,6 @@
         "error": null
       }
     ],
-    "econ_calendar": [
-      {
-        "event": "PCE May 2026",
-        "date": "2026-06-26",
-        "days_until": -0.34,
-        "markets_found": 0
-      }
-    ]
+    "econ_calendar": []
   }
 }
