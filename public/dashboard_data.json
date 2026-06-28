@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-27T15:19:01.460Z",
+  "generated_at": "2026-06-28T15:20:31.667Z",
   "balance": 0.83,
   "total_pnl": 156.24,
   "positions": 10,
@@ -22,8 +22,8 @@
       "contracts": 14,
       "price_cents": 34,
       "cost_dollars": 4.76,
-      "current_price_cents": 36,
-      "unrealized_pnl": 0.28000000000000025,
+      "current_price_cents": 32,
+      "unrealized_pnl": -0.27999999999999936,
       "realized_pnl": 0
     },
     {
@@ -33,8 +33,8 @@
       "contracts": 10,
       "price_cents": 47,
       "cost_dollars": 4.7,
-      "current_price_cents": 2,
-      "unrealized_pnl": -4.47,
+      "current_price_cents": 10,
+      "unrealized_pnl": -3.7100000000000004,
       "realized_pnl": 0
     },
     {
@@ -44,8 +44,8 @@
       "contracts": 11,
       "price_cents": 47,
       "cost_dollars": 5.17,
-      "current_price_cents": 43,
-      "unrealized_pnl": -0.4399999999999995,
+      "current_price_cents": 44,
+      "unrealized_pnl": -0.33000000000000007,
       "realized_pnl": 0
     },
     {
@@ -99,8 +99,8 @@
       "contracts": 14,
       "price_cents": 57,
       "cost_dollars": 7.98,
-      "current_price_cents": 51,
-      "unrealized_pnl": -0.8399999999999999,
+      "current_price_cents": 57,
+      "unrealized_pnl": -8.881784197001252e-16,
       "realized_pnl": 0
     },
     {
@@ -110,13 +110,13 @@
       "contracts": 20,
       "price_cents": 24,
       "cost_dollars": 4.72,
-      "current_price_cents": 13,
-      "unrealized_pnl": -2.1199999999999997,
+      "current_price_cents": 12,
+      "unrealized_pnl": -2.32,
       "realized_pnl": 0
     }
   ],
   "latest_scan": {
-    "timestamp": "2026-06-27T15:19:01.460Z",
+    "timestamp": "2026-06-28T15:20:31.667Z",
     "markets_pulled": 48,
     "markets_analyzed": 48,
     "opportunities_found": 0,
@@ -135,79 +135,19 @@
       "status": "open",
       "resolution": null,
       "pnl_dollars": 0
-    },
-    {
-      "trade_date": "2026-04-22",
-      "ticker": "USCLIMATE-2025",
-      "title": "USCLIMATE-2025",
-      "side": "yes",
-      "contracts": 0,
-      "price_cents": 0,
-      "cost_dollars": 0,
-      "status": "open",
-      "resolution": null,
-      "pnl_dollars": 0
-    },
-    {
-      "trade_date": "2026-04-22",
-      "ticker": "USCLIMATE-2025",
-      "title": "USCLIMATE-2025",
-      "side": "yes",
-      "contracts": 0,
-      "price_cents": 0,
-      "cost_dollars": 0,
-      "status": "open",
-      "resolution": null,
-      "pnl_dollars": 0
-    },
-    {
-      "trade_date": "2026-04-22",
-      "ticker": "KXTIMEDECADE20S-30-EMUS",
-      "title": "KXTIMEDECADE20S-30-EMUS",
-      "side": "yes",
-      "contracts": 0,
-      "price_cents": 0,
-      "cost_dollars": 0,
-      "status": "open",
-      "resolution": null,
-      "pnl_dollars": 0
-    },
-    {
-      "trade_date": "2026-04-22",
-      "ticker": "KXTIMEDECADE20S-30-EMUS",
-      "title": "KXTIMEDECADE20S-30-EMUS",
-      "side": "yes",
-      "contracts": 0,
-      "price_cents": 0,
-      "cost_dollars": 0,
-      "status": "open",
-      "resolution": null,
-      "pnl_dollars": 0
-    },
-    {
-      "trade_date": "2026-04-22",
-      "ticker": "KXNHLGAME-26APR22ANAEDM-ANA",
-      "title": "KXNHLGAME-26APR22ANAEDM-ANA",
-      "side": "yes",
-      "contracts": 0,
-      "price_cents": 0,
-      "cost_dollars": 0,
-      "status": "open",
-      "resolution": null,
-      "pnl_dollars": 0
     }
   ],
   "performance": null,
-  "elapsed_ms": 646,
+  "elapsed_ms": 862,
   "diagnostics": {
     "weather": [
       {
         "city": "NYC",
         "forecast": {
-          "raw_forecast_f": 75,
-          "corrected_f": 76,
+          "raw_forecast_f": 78,
+          "corrected_f": 79,
           "period_name": "Today",
-          "period_start": "2026-06-27T07:00:00-04:00"
+          "period_start": "2026-06-28T11:00:00-04:00"
         },
         "markets_scanned": 12,
         "error": null
@@ -215,10 +155,10 @@
       {
         "city": "Chicago",
         "forecast": {
-          "raw_forecast_f": 71,
-          "corrected_f": 71.5,
+          "raw_forecast_f": 78,
+          "corrected_f": 78.5,
           "period_name": "Today",
-          "period_start": "2026-06-27T10:00:00-05:00"
+          "period_start": "2026-06-28T10:00:00-05:00"
         },
         "markets_scanned": 12,
         "error": null
@@ -229,7 +169,7 @@
           "raw_forecast_f": 91,
           "corrected_f": 94,
           "period_name": "Today",
-          "period_start": "2026-06-27T11:00:00-04:00"
+          "period_start": "2026-06-28T11:00:00-04:00"
         },
         "markets_scanned": 12,
         "error": null
@@ -237,10 +177,10 @@
       {
         "city": "Austin",
         "forecast": {
-          "raw_forecast_f": 97,
-          "corrected_f": 98.5,
+          "raw_forecast_f": 98,
+          "corrected_f": 99.5,
           "period_name": "Today",
-          "period_start": "2026-06-27T07:00:00-05:00"
+          "period_start": "2026-06-28T10:00:00-05:00"
         },
         "markets_scanned": 12,
         "error": null
