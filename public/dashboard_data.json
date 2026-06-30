@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-30T16:23:52.912Z",
+  "generated_at": "2026-06-30T21:51:10.377Z",
   "balance": 0.83,
   "total_pnl": 156.24,
   "positions": 10,
@@ -22,8 +22,8 @@
       "contracts": 14,
       "price_cents": 34,
       "cost_dollars": 4.76,
-      "current_price_cents": 36,
-      "unrealized_pnl": 0.28000000000000025,
+      "current_price_cents": 32,
+      "unrealized_pnl": -0.27999999999999936,
       "realized_pnl": 0
     },
     {
@@ -88,8 +88,8 @@
       "contracts": 55,
       "price_cents": 10,
       "cost_dollars": 5.5,
-      "current_price_cents": 13,
-      "unrealized_pnl": 1.6500000000000004,
+      "current_price_cents": 12,
+      "unrealized_pnl": 1.0999999999999996,
       "realized_pnl": 0
     },
     {
@@ -110,13 +110,13 @@
       "contracts": 20,
       "price_cents": 24,
       "cost_dollars": 4.72,
-      "current_price_cents": 13,
-      "unrealized_pnl": -2.1199999999999997,
+      "current_price_cents": 17,
+      "unrealized_pnl": -1.319999999999999,
       "realized_pnl": 0
     }
   ],
   "latest_scan": {
-    "timestamp": "2026-06-30T16:23:52.912Z",
+    "timestamp": "2026-06-30T21:51:10.377Z",
     "markets_pulled": 48,
     "markets_analyzed": 48,
     "opportunities_found": 0,
@@ -138,16 +138,16 @@
     }
   ],
   "performance": null,
-  "elapsed_ms": 701,
+  "elapsed_ms": 388,
   "diagnostics": {
     "weather": [
       {
         "city": "NYC",
         "forecast": {
-          "raw_forecast_f": 84,
-          "corrected_f": 85,
-          "period_name": "Today",
-          "period_start": "2026-06-30T09:00:00-04:00"
+          "raw_forecast_f": 86,
+          "corrected_f": 87,
+          "period_name": "This Afternoon",
+          "period_start": "2026-06-30T15:00:00-04:00"
         },
         "markets_scanned": 12,
         "error": null
@@ -157,8 +157,8 @@
         "forecast": {
           "raw_forecast_f": 95,
           "corrected_f": 95.5,
-          "period_name": "Today",
-          "period_start": "2026-06-30T11:00:00-05:00"
+          "period_name": "This Afternoon",
+          "period_start": "2026-06-30T16:00:00-05:00"
         },
         "markets_scanned": 12,
         "error": null
@@ -169,7 +169,7 @@
           "raw_forecast_f": 93,
           "corrected_f": 96,
           "period_name": "This Afternoon",
-          "period_start": "2026-06-30T12:00:00-04:00"
+          "period_start": "2026-06-30T17:00:00-04:00"
         },
         "markets_scanned": 12,
         "error": null
@@ -179,8 +179,8 @@
         "forecast": {
           "raw_forecast_f": 96,
           "corrected_f": 97.5,
-          "period_name": "Today",
-          "period_start": "2026-06-30T11:00:00-05:00"
+          "period_name": "This Afternoon",
+          "period_start": "2026-06-30T16:00:00-05:00"
         },
         "markets_scanned": 12,
         "error": null
@@ -189,15 +189,15 @@
     "zero_dte": [
       {
         "index": "S&P 500",
-        "spot": 7492.03,
-        "vix": 16.75,
+        "spot": 7499.36,
+        "vix": 16.45,
         "markets_scanned": 0,
         "error": null
       },
       {
         "index": "Nasdaq 100",
-        "spot": 30215.934,
-        "vix": 27.84,
+        "spot": 30276.348,
+        "vix": 27.11,
         "markets_scanned": 0,
         "error": null
       }
@@ -206,7 +206,7 @@
       {
         "event": "NFP June 2026",
         "date": "2026-07-02",
-        "days_until": 1.88,
+        "days_until": 1.65,
         "markets_found": 0
       }
     ]
