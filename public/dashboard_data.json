@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-03T21:36:24.100Z",
+  "generated_at": "2026-07-04T15:09:46.120Z",
   "balance": 0.83,
   "total_pnl": 156.24,
   "positions": 10,
@@ -34,7 +34,7 @@
       "price_cents": 47,
       "cost_dollars": 4.7,
       "current_price_cents": 3,
-      "unrealized_pnl": -4.37,
+      "unrealized_pnl": -4.39,
       "realized_pnl": 0
     },
     {
@@ -66,8 +66,8 @@
       "contracts": 22,
       "price_cents": 64,
       "cost_dollars": 14.18,
-      "current_price_cents": 75,
-      "unrealized_pnl": 2.3200000000000003,
+      "current_price_cents": 76,
+      "unrealized_pnl": 2.539999999999999,
       "realized_pnl": 0
     },
     {
@@ -116,7 +116,7 @@
     }
   ],
   "latest_scan": {
-    "timestamp": "2026-07-03T21:36:24.100Z",
+    "timestamp": "2026-07-04T15:09:46.120Z",
     "markets_pulled": 48,
     "markets_analyzed": 48,
     "opportunities_found": 0,
@@ -138,16 +138,16 @@
     }
   ],
   "performance": null,
-  "elapsed_ms": 537,
+  "elapsed_ms": 516,
   "diagnostics": {
     "weather": [
       {
         "city": "NYC",
         "forecast": {
-          "raw_forecast_f": 98,
-          "corrected_f": 99,
-          "period_name": "This Afternoon",
-          "period_start": "2026-07-03T16:00:00-04:00"
+          "raw_forecast_f": 96,
+          "corrected_f": 97,
+          "period_name": "Independence Day",
+          "period_start": "2026-07-04T11:00:00-04:00"
         },
         "markets_scanned": 12,
         "error": null
@@ -155,10 +155,10 @@
       {
         "city": "Chicago",
         "forecast": {
-          "raw_forecast_f": 88,
-          "corrected_f": 88.5,
-          "period_name": "This Afternoon",
-          "period_start": "2026-07-03T16:00:00-05:00"
+          "raw_forecast_f": 80,
+          "corrected_f": 80.5,
+          "period_name": "Independence Day",
+          "period_start": "2026-07-04T10:00:00-05:00"
         },
         "markets_scanned": 12,
         "error": null
@@ -168,8 +168,8 @@
         "forecast": {
           "raw_forecast_f": 91,
           "corrected_f": 94,
-          "period_name": "This Afternoon",
-          "period_start": "2026-07-03T17:00:00-04:00"
+          "period_name": "Independence Day",
+          "period_start": "2026-07-04T11:00:00-04:00"
         },
         "markets_scanned": 12,
         "error": null
@@ -177,10 +177,10 @@
       {
         "city": "Austin",
         "forecast": {
-          "raw_forecast_f": 97,
-          "corrected_f": 98.5,
-          "period_name": "This Afternoon",
-          "period_start": "2026-07-03T15:00:00-05:00"
+          "raw_forecast_f": 98,
+          "corrected_f": 99.5,
+          "period_name": "Independence Day",
+          "period_start": "2026-07-04T07:00:00-05:00"
         },
         "markets_scanned": 12,
         "error": null
